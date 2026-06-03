@@ -273,6 +273,11 @@
     <sys:String x:Key="Deploy_Advanced_SCL_Cache_Override.Title">Folder path</sys:String>
     <sys:String x:Key="Deploy_Advanced_SCL_Cache_Override.Description">Geben Sie einen Speicherort für das Lizenzierungs-Token an.</sys:String>
 
+    <sys:String x:Key="Deploy_Advanced_Organization">Organization settings</sys:String>
+    <sys:String x:Key="Deploy_Advanced_Organization_TenantID">Tenant ID</sys:String>
+    <sys:String x:Key="Deploy_Advanced_Organization_TAK">Tenant Association Key</sys:String>
+    <sys:String x:Key="Deploy_Advanced_Organization_TAK.Description">Associates the device with your organization. This setting applies only to Microsoft 365 Apps.</sys:String>
+
     <sys:String x:Key="Deploy_Advanced_Preferences">Anwendungseinstellungen</sys:String>
     <sys:String x:Key="Deploy_Advanced_Apply_Preferences.Description">Anwendungseinstellungen sofort auf Office-Anwendungen anwenden.</sys:String>
     <sys:String x:Key="Deploy_Advanced_Reset_Preferences">Alle Anwendungseinstellungen zurücksetzen</sys:String>

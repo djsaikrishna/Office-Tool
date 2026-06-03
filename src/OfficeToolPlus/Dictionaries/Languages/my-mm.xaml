@@ -273,6 +273,11 @@
     <sys:String x:Key="Deploy_Advanced_SCL_Cache_Override.Title">Folder path</sys:String>
     <sys:String x:Key="Deploy_Advanced_SCL_Cache_Override.Description">လိုင်စင် တိုကင်အတွက် folder တည်နေရာကို သတ်မှတ်ပါ။</sys:String>
 
+    <sys:String x:Key="Deploy_Advanced_Organization">Organization settings</sys:String>
+    <sys:String x:Key="Deploy_Advanced_Organization_TenantID">Tenant ID</sys:String>
+    <sys:String x:Key="Deploy_Advanced_Organization_TAK">Tenant Association Key</sys:String>
+    <sys:String x:Key="Deploy_Advanced_Organization_TAK.Description">Associates the device with your organization. This setting applies only to Microsoft 365 Apps.</sys:String>
+
     <sys:String x:Key="Deploy_Advanced_Preferences">အပ်လီကေးရှင်း၏ မိမိသတ်မှတ်ချက်များ</sys:String>
     <sys:String x:Key="Deploy_Advanced_Apply_Preferences.Description">Office အက်ပလီကေးရှင်းများတွင် မိမိသတ်မှတ်ချက်များ ချက်ချင်း အသုံးပြုပါ။</sys:String>
     <sys:String x:Key="Deploy_Advanced_Reset_Preferences">မိမိသတ်မှတ်ချက်များကို ပြန်လည်သတ်မှတ်ရန်</sys:String>
