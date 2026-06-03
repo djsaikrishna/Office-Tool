@@ -276,7 +276,7 @@
     <sys:String x:Key="Deploy_Advanced_Organization">组织设置</sys:String>
     <sys:String x:Key="Deploy_Advanced_Organization_TenantID">租户 ID</sys:String>
     <sys:String x:Key="Deploy_Advanced_Organization_TAK">租户关联密钥</sys:String>
-    <sys:String x:Key="Deploy_Advanced_Organization_TAK.Description">将设备与您的组织关联。此设置仅适用于 Microsoft 365 Apps。</sys:String>
+    <sys:String x:Key="Deploy_Advanced_Organization_TAK.Description">将设备与您的组织关联。此设置仅适用于 Microsoft 365 应用版本。</sys:String>
 
     <sys:String x:Key="Deploy_Advanced_Preferences">应用程序首选项</sys:String>
     <sys:String x:Key="Deploy_Advanced_Apply_Preferences.Description">立即将首选项应用于 Office 应用程序。</sys:String>
